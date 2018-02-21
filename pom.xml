@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.demo.maven</groupId>
 	<artifactId>demo-jenkins-jahnavi</artifactId>
-	<version>1.0</version>
+	<version>1.2</version>
 	<packaging>jar</packaging>
 	<distributionManagement>
 	  <repository>
